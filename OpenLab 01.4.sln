@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenLab 01.4", "OpenLab 01.4\OpenLab 01.4.csproj", "{B858474D-06E9-4807-9F97-CA260102B990}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B858474D-06E9-4807-9F97-CA260102B990}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B858474D-06E9-4807-9F97-CA260102B990}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B858474D-06E9-4807-9F97-CA260102B990}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B858474D-06E9-4807-9F97-CA260102B990}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {880C3A88-00B3-4A9F-92C0-82E09C6652B0}
+	EndGlobalSection
+EndGlobal
